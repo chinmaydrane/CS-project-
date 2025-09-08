@@ -1,10 +1,18 @@
+# Python
 venv/
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
+
+# Documents & binaries
 *.exe
 *.docx
 *.xlsx
 *.cpp
-CS-project-/
 
+# Keep this folder tracked
+!CS-project-/
+
+# Keep important files
+!requirements.txt
+!.gitignore
