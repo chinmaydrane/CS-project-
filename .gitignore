@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.exe
+*.docx
+*.xlsx
+*.cpp
+CS-project-/
+
